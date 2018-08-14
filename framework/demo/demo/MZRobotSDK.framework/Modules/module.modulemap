@@ -1,0 +1,6 @@
+framework module MZRobotSDK {
+  umbrella header "MZRobotSDK.h"
+
+  export *
+  module * { export * }
+}
